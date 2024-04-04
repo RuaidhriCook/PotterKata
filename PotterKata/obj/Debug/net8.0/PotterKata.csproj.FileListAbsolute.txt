@@ -1,0 +1,14 @@
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\bin\Debug\net8.0\PotterKata.exe
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\bin\Debug\net8.0\PotterKata.deps.json
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\bin\Debug\net8.0\PotterKata.runtimeconfig.json
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\bin\Debug\net8.0\PotterKata.dll
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\bin\Debug\net8.0\PotterKata.pdb
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.AssemblyInfoInputs.cache
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.AssemblyInfo.cs
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.csproj.CoreCompileInputs.cache
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.dll
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\refint\PotterKata.dll
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.pdb
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\PotterKata.genruntimeconfig.cache
+C:\Users\Ruaidhri\source\repos\PotterKata\PotterKata\obj\Debug\net8.0\ref\PotterKata.dll
